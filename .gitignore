@@ -17,3 +17,10 @@ buildNumber.properties
 .classpath
 
 .vscode/
+
+# IDE/Editor
+.settings/
+.zed/
+.classpath
+.project
+target/
